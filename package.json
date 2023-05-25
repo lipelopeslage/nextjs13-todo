@@ -6,10 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "release": "standard-version -a"
   },
   "devDependencies": {
-    "prisma": "^4.14.1"
+    "prisma": "^4.14.1",
+    "standard-version": "^9.5.0"
   },
   "dependencies": {
     "@prisma/client": "^4.14.1",
