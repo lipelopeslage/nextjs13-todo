@@ -1,6 +1,11 @@
 # Simple Next.js 13 Todo App
 
-This is a learning exercise by the channel [Web Dev Simplified](https://www.youtube.com/watch?v=NgayZAuTgwM) applying TailWind CSS and Server Actions at the recent released Next.js 13 version. This app uses [Prisma](https://www.prisma.io/) for data persistence with Typescript.
+This is a learning exercise by the channel [Web Dev Simplified](https://www.youtube.com/watch?v=NgayZAuTgwM) that features a simple todo app using next.js version 13.
+
+### Tech stack
+- TailWind CSS (styles)
+- Server Actions (form submition and todo toggle persistence)
+- [Prisma](https://www.prisma.io/) (data storage and persistence w/ Typescript)
 
 
 ## Getting Started
